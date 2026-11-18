@@ -1,0 +1,4 @@
+# Optional: multilingual transformer fallback (used when translation fails).
+# Large download (~1-2 GB with torch). The app works without these.
+transformers>=4.40
+torch>=2.2
